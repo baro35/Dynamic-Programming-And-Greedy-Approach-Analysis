@@ -1,0 +1,91 @@
+Hero,Piece Type,Gold,Attack Points
+Pawn James,Pawn,50,245
+Pawn Ashley,Pawn,45,505
+Pawn Raylee,Pawn,35,525
+Pawn Wymond,Pawn,60,595
+Pawn Benton,Pawn,25,175
+Pawn Lynn,Pawn,60,130
+Pawn Calvinus,Pawn,50,505
+Pawn Salomon,Pawn,30,165
+Pawn Gary,Pawn,40,600
+Pawn Eddy,Pawn,40,215
+Eilean Donan,Rook,30,330
+Edinburgh Castle,Rook,45,385
+Kilkenny Castle,Rook,40,575
+Mont-Saint-Michel,Rook,60,605
+Castel del Monte,Rook,35,585
+Château de Suscinio,Rook,70,750
+Kangra Fort,Rook,50,600
+Bodiam Castle,Rook,70,370
+Eltz Castle,Rook,65,350
+Great Temple of Aztec,Rook,35,340
+Robin Hood,Archer,100,715
+Huang Zhong,Archer,80,500
+Howard Hill,Archer,85,775
+Yue Fei,Archer,85,815
+Lord de Graville,Archer,80,820
+Minamoto no Tametomo,Archer,30,390
+Nasu no Yoichi,Archer,50,755
+Huayna Capac,Archer,80,555
+Su Dingfang,Archer,60,385
+Musa ibn Nusayr,Archer,80,645
+Richard the Lionheart,Knight,45,1140
+Attila the Hun,Knight,120,330
+Guy Josselyne,Knight,120,535
+Tariq ibn Ziyad,Knight,80,615
+Philip II Augustus,Knight,60,775
+Álvarez de Toledo,Knight,90,775
+Earl of Wessex,Knight,115,415
+El Cid Campeador,Knight,115,975
+Bayazid,Knight,110,315
+The Black Prince,Knight,40,910
+Jadwiga,Bishop,90,815
+Harald Hardrada,Bishop,80,315
+Pope Leo I,Bishop,40,705
+Saint Benedict,Bishop,40,905
+Berlinda of Meerbeke,Bishop,45,1100
+Justin de Jacobis,Bishop,120,790
+John Vianney,Bishop,80,375
+Pope Eugene I,Bishop,30,680
+Petrus Canisius,Bishop,95,520
+Centurione Bracelli,Bishop,55,885
+Caravel La Nina,War_ship,75,1290
+Holy Carrack,War_ship,100,585
+Big Galleon,War_ship,115,860
+Caravel La Pinta,War_ship,150,1200
+Cute Fireship,War_ship,150,435
+Beagle,War_ship,70,915
+Santa Maria,War_ship,55,940
+The Victory,War_ship,130,960
+Advanture Galley,War_ship,135,1445
+Mary Celeste,War_ship,40,1065
+Vicious Battering Ram,Siege,55,1150
+Complex Ballista,Siege,110,825
+Great Siege Tower,Siege,100,775
+Abandoned Cannon,Siege,90,1165
+Plague,Siege,135,1415
+Fluffy Catapult,Siege,90,1175
+Trebuchet,Siege,145,1365
+Cowardly Onager,Siege,100,1130
+Old Petrary,Siege,115,875
+Slippery Ladder,Siege,75,600
+Queen Isabella,Queen,125,1160
+Margaret of Provence,Queen,135,825
+Anne Neville,Queen,120,1010
+Kosem Sultan,Queen,85,865
+Elizabeth I,Queen,110,1235
+Eleanor of Aquitaine,Queen,140,1455
+Nefertiti of Egypt,Queen,80,1035
+Joan of Arc,Queen,115,1145
+Sibylla,Queen,150,1220
+Empress Matilda,Queen,145,1355
+Louis IX,King,130,1085
+Emp. Constantine,King,100,1375
+Suleiman the Magnificent,King,135,1095
+King Philip I,King,105,1005
+Afonso V,King,115,1185
+Frederick Barbarossa,King,105,1195
+Genghis Khan,King,150,1490
+Saladin,King,115,1020
+King Edward,King,140,1385
+Emperor Kokaku,King,130,1340
